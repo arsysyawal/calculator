@@ -9,7 +9,7 @@ print("\t\t\t(*) PERKALIAN   (*)")
 print("\t\t\t(/) PEMBAGIAN   (/)")
 
 # ini inputan Opsi Pilihan
-opsi_pilihan = input("\n\n\tSILAHKAN KELITIKIN SYMBOL DIATAS SESUAI KEBUTUHAN ANDA :")
+opsi_pilihan = input("\n\n\tSILAHKAN MASUKAN SYMBOL DIATAS SESUAI KEBUTUHAN ANDA :")
 
 # buat variable/ember sebuah tempat naro data
 angka_1 = 0 # artinya ember ini cuma bisa untuk ikan jenis "INTEGER"
