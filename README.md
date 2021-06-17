@@ -1,2 +1,2 @@
 # calculator
-Ini adalah Kalkulator
+Ini adalah Kalkulator Masa Kini.
